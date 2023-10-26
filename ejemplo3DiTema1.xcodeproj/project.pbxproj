@@ -15,6 +15,8 @@
 		1B51485E2AEA64F100221D1B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1B51485C2AEA64F100221D1B /* LaunchScreen.storyboard */; };
 		1B5148692AEA64F100221D1B /* ejemplo3DiTema1Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1B5148682AEA64F100221D1B /* ejemplo3DiTema1Tests.swift */; };
 		1B5148742AEA64F100221D1B /* ejemplo3DiTema1UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1B5148732AEA64F100221D1B /* ejemplo3DiTema1UITests.swift */; };
+		1B5148852AEA658700221D1B /* Ventana2ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1B5148842AEA658700221D1B /* Ventana2ViewController.swift */; };
+		1B51488A2AEA670A00221D1B /* ObtenerDatos.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1B5148892AEA670A00221D1B /* ObtenerDatos.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +51,8 @@
 		1B51486F2AEA64F100221D1B /* ejemplo3DiTema1UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ejemplo3DiTema1UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		1B5148732AEA64F100221D1B /* ejemplo3DiTema1UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ejemplo3DiTema1UITests.swift; sourceTree = "<group>"; };
 		1B5148752AEA64F100221D1B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1B5148842AEA658700221D1B /* Ventana2ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Ventana2ViewController.swift; sourceTree = "<group>"; };
+		1B5148892AEA670A00221D1B /* ObtenerDatos.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ObtenerDatos.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +110,8 @@
 				1B51485A2AEA64F100221D1B /* Assets.xcassets */,
 				1B51485C2AEA64F100221D1B /* LaunchScreen.storyboard */,
 				1B51485F2AEA64F100221D1B /* Info.plist */,
+				1B5148842AEA658700221D1B /* Ventana2ViewController.swift */,
+				1B5148892AEA670A00221D1B /* ObtenerDatos.swift */,
 			);
 			path = ejemplo3DiTema1;
 			sourceTree = "<group>";
@@ -259,8 +265,10 @@
 			buildActionMask = 2147483647;
 			files = (
 				1B5148562AEA64EE00221D1B /* ViewController.swift in Sources */,
+				1B5148852AEA658700221D1B /* Ventana2ViewController.swift in Sources */,
 				1B5148522AEA64EE00221D1B /* AppDelegate.swift in Sources */,
 				1B5148542AEA64EE00221D1B /* SceneDelegate.swift in Sources */,
+				1B51488A2AEA670A00221D1B /* ObtenerDatos.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
